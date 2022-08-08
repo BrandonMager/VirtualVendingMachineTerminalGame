@@ -1,4 +1,4 @@
-# VirtualVendingMachineTerminalGame
+# Virtual Vending Machine Terminal Game Script
 A Virtual Vending Machine Terminal Game that acts as a simulator to teach people how to run a Vending Machine Business
 ## How It Works
 ### Beginning
